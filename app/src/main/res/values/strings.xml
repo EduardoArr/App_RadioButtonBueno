@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_RadioButton</string>
+    <string name="txt_num1">Dime un numero</string>
+    <string name="txt_num2">Dime otro numero</string>
+    <string name="resultado">Pulsa Aqui</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+</resources>
